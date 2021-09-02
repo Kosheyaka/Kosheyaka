@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @Kosheyaka (Dmitry Volkov)
 - 👀 I'm interested in being a good person
-- 🌱 I'm currently learning NodeJS (mostly TypeScript) and related frameworks/libs
-- 💞️ I'm NOT looking to collaborate on anything.
+- 🌱 I'm currently learning NodeJS (mostly TypeScript) and related tools
+- 💞️ I'm looking to collaborate on my [Tinkoff Investment client](https://github.com/Kosheyaka/tinkoff-client-backend): it would be awesome, if somebody will make frontend part of this project.
 - 📫 How to reach me? via Telegram! [click](https://t.me/Kosheyaka)
 
 
